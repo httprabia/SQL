@@ -1,0 +1,2 @@
+# SQL
+Stok Takip Otomasyonu
